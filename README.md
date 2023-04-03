@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tanzu-java-web-app
 
 This is a sample of a Java Spring app that works with Tilt and the Tanzu Application Platform.
@@ -25,3 +26,6 @@ You can hit the spacebar to open the UI in a browser.
         allow_k8s_contexts('tap-beta2')
     to your Tiltfile. Otherwise, switch k8s contexts and restart Tilt.
     ```
+=======
+# tanzu-java-web-app
+>>>>>>> 9a818ae60e5b7192370d76ada1a09007fb51f391
